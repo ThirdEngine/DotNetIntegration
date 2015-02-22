@@ -2,7 +2,7 @@
   "name": "ThirdEngine/DotNetIntegration",
   "autoload": {
     "psr-4" : {
-	  "ThirdEngine\\DotNetIntegration" : "src"
+	  "ThirdEngine\\DotNetIntegration\\" : "src"
     }
   }
 }
