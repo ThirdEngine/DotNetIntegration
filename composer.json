@@ -2,7 +2,11 @@
   "name": "ThirdEngine/DotNetIntegration",
   "autoload": {
     "psr-4" : {
-	  "ThirdEngine\\DotNetIntegration\\" : "src"
+	    "ThirdEngine\\DotNetIntegration\\" : "src"
     }
+  },
+  "require": {
+    "php": ">=5.3.3",
+    "phpunit/phpunit": "4.3.*"
   }
 }
