@@ -1,7 +1,7 @@
 {
   "name": "third-engine/dot-net-integration",
   "type": "library",
-  "keywords": ["factory", "unit"],
+  "keywords": [".NET", "serialization"],
   "homepage": "https://github.com/ThirdEngine/DotNetIntegration",
   "license": "MIT",
   "authors": [
