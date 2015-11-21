@@ -1,5 +1,18 @@
 {
-  "name": "ThirdEngine/DotNetIntegration",
+  "name": "third-engine/dot-net-integration",
+  "type": "library",
+  "keywords": ["factory", "unit"],
+  "homepage": "https://github.com/ThirdEngine/DotNetIntegration",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Tony Vance",
+      "email": "tony.vance@latentcodex.com",
+      "homepage": "http://www.thirdenginesoftware.com",
+      "role": "Chief Architect"
+    }
+  ],
+  "description": "Provides utilities for working with .NET. Version 1 specifically targets reading .NET serialization.",
   "autoload": {
     "psr-4" : {
 	    "ThirdEngine\\DotNetIntegration\\" : "src"
